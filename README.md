@@ -1,2 +1,3 @@
 # hotsauce
-everything becomes spicy (almost everything (not everything))
+(NTM Resourcepack)everything becomes spicy (almost everything (not everything))
+
